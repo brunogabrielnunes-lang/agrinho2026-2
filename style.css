@@ -1,6 +1,10 @@
-.div{
-    
-    background-color: aqua;    
-    color: brown;
+.body{
+ background-color: #00ff00;
+ display: flexbox;
+ font-family: Arial, Helvetica, sans-serif;
+}
 
+.mainSection{
+    background-color: blue;
+    margin : 3rem;
 }
